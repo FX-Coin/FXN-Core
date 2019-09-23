@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/fxn_bg.qm</file>
+        <file alias="ca">locale/fxn_ca.qm</file>
+        <file alias="cs">locale/fxn_cs.qm</file>
+        <file alias="da">locale/fxn_da.qm</file>
+        <file alias="de">locale/fxn_de.qm</file>
+        <file alias="en">locale/fxn_en.qm</file>
+        <file alias="en_US">locale/fxn_en_US.qm</file>
+        <file alias="es">locale/fxn_es.qm</file>
+        <file alias="fi">locale/fxn_fi.qm</file>
+        <file alias="fr_FR">locale/fxn_fr_FR.qm</file>
+        <file alias="hr">locale/fxn_hr.qm</file>
+        <file alias="it">locale/fxn_it.qm</file>
+        <file alias="ja">locale/fxn_ja.qm</file>
+        <file alias="ko_KR">locale/fxn_ko_KR.qm</file>
+        <file alias="nl">locale/fxn_nl.qm</file>
+        <file alias="pl">locale/fxn_pl.qm</file>
+        <file alias="pt">locale/fxn_pt.qm</file>
+        <file alias="pt_BR">locale/fxn_pt_BR.qm</file>
+        <file alias="ro_RO">locale/fxn_ro_RO.qm</file>
+        <file alias="ru">locale/fxn_ru.qm</file>
+        <file alias="sk">locale/fxn_sk.qm</file>
+        <file alias="sv">locale/fxn_sv.qm</file>
+        <file alias="tr">locale/fxn_tr.qm</file>
+        <file alias="uk">locale/fxn_uk.qm</file>
+        <file alias="zh_CN">locale/fxn_zh_CN.qm</file>
+        <file alias="zh_TW">locale/fxn_zh_TW.qm</file>
+    </qresource>
+</RCC>

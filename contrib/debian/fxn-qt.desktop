@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FXN
+Comment=FXN P2P Cryptocurrency
+Comment[fr]=FXN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FXN, eşten eşe kriptografik sanal para birimi
+Exec=fxn-qt %u
+Terminal=false
+Type=Application
+Icon=fxn128
+MimeType=x-scheme-handler/fxn;
+Categories=Office;Finance;
